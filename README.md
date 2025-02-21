@@ -4,3 +4,5 @@ simulación de entorno de trabajo como scm
 # nuevo cambio, movimientos
 # se agrego nueva rama
 ensayando los pull request
+# se agrego est alinea desde feature
+nueva linea de feature
